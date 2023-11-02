@@ -1,0 +1,46 @@
+Simple to do programs for operators:
+1. Square of a number.
+solution:
+       let a =5;
+       let square = a*a;
+       console.log(square);
+
+
+
+2. Swapping two numbers:
+ solution: 
+          let x=5;
+          let y=10;
+          let swap = x;
+             x=y;
+             y=swap;
+            console.log(x);
+            console.log(y);
+
+
+
+3. Addition of 3 numbers:
+solution:
+         let x = 3
+         let y= 5
+         let z= 2
+         console.log(x+y+z);
+
+
+
+4.Celsius to Fahrenheit conversion:
+solution:
+       
+       let Celsius = 33
+       let Fahrenheit = (Celsius * 9/5) + 32
+       console.log(Fahrenheit);
+
+5. Meter to miles:
+solution:
+     //1 meter (m) = 0.00062137 miles (mi) //
+     Let meter = 100 
+     let miles = meter * 0.00062137
+     console.log(miles)
+
+
+6. 

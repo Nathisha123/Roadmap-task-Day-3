@@ -43,4 +43,4 @@ solution:
      console.log(miles)
 
 
-6. 
+

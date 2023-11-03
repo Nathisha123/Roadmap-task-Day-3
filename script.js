@@ -4,7 +4,9 @@
    let obj2= {age:5, name:"Person1"}
 
    let JSON1 =JSON.stringify(obj1);
+   console.log(JSON1);
    let JSON2 =JSON.stringify(obj2);
+   console.log(JSON2);
 
    if (JSON1 ==JSON2)
    {
